@@ -1,7 +1,7 @@
 # Sobre mim
 
 
-- 👋 Olá me chamo XXXXXXXXX, sou aluno da rede Estadual do Paraná.
+- 👋 Olá me chamo Stefany Reis, sou aluno da rede Estadual do Paraná.
 - 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
 - 🌱 Atualmente estou cursando
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
